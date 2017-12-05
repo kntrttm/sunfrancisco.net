@@ -1,0 +1,5 @@
+baseURL = "https://sunfrancisco.net/"
+languageCode = "en-us"
+title = "Sunfrancisco"
+
+hasCJKLanguage = true

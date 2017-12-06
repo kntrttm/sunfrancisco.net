@@ -1,8 +1,9 @@
-baseURL = "https://sunfrancisco.net"
-#baseURL = "https://kntrttm.github.io/sunfrancisco.net"
-languageCode = "en-us"
+#baseURL = "https://sunfrancisco.net"
+baseURL = "https://kntrttm.github.io/sunfrancisco.net"
 title = "Sunfrancisco"
 
+languageCode = "ja-JP"
+canonifyurls = true
 hasCJKLanguage = true
 
 theme="hugo-creative-portfolio-theme"

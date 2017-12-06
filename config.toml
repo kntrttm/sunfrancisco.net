@@ -1,4 +1,5 @@
-baseURL = "https://sunfrancisco.net/public"
+baseURL = "/"
+#baseURL = "https://sunfrancisco.net/public"
 title = "Sunfrancisco"
 
 languageCode = "ja-JP"

@@ -1,5 +1,4 @@
-#baseURL = "https://sunfrancisco.net"
-baseURL = "https://kntrttm.github.io/sunfrancisco.net"
+baseURL = "https://sunfrancisco.net/public"
 title = "Sunfrancisco"
 
 languageCode = "ja-JP"

@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kntrttm.github.io/sunfrancisco.net/categories/</loc>
+    <loc>https://sunfrancisco.net/public/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kntrttm.github.io/sunfrancisco.net/</loc>
+    <loc>https://sunfrancisco.net/public/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kntrttm.github.io/sunfrancisco.net/tags/</loc>
+    <loc>https://sunfrancisco.net/public/tags/</loc>
     <priority>0</priority>
   </url>
   

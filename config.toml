@@ -1,7 +1,8 @@
-baseURL = "https://kntrttm.github.io/sunfrancisco.net"
+baseURL = "https://sunfrancisco.net"
+#baseURL = "https://kntrttm.github.io/sunfrancisco.net"
 languageCode = "en-us"
 title = "Sunfrancisco"
 
 hasCJKLanguage = true
 
-theme = "hugo-artists-theme"
+theme="hugo-creative-portfolio-theme"

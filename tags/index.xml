@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sunfrancisco</title>
-    <link>https://sunfrancisco.net/public/tags/</link>
+    <link>https://sunfrancisco.net/tags/</link>
     <description>Recent content in Tags on Sunfrancisco</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     
-	<atom:link href="https://sunfrancisco.net/public/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sunfrancisco.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

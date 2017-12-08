@@ -8,6 +8,8 @@ hasCJKLanguage = true
 
 theme="hugo-creative-portfolio-theme"
 
+googleAnalytics = "UA-110927406-1"
+
 [[params.navlinks]]
   name = "Home"
   url = ""

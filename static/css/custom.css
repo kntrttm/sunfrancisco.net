@@ -1,9 +1,17 @@
 /* your styles go here */
-body{
+.container-fluid{
     background-color: #FFF !important;
 }
 .content-column-content img{
     width: 100% !important;
+}
+.btn {
+    font-weight: 400;
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    padding: 6px 6px;
+    /* font-size: 16px;
+    line-height: 1.50; */
+    border-radius: 100px;
 }
 
 

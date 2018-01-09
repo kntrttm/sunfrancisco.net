@@ -1,5 +1,12 @@
 /* your styles go here */
-img{width: 100% !important;}
+body{
+    background-color: #FFF;
+}
+.content-column-content img{
+    width: 100% !important;
+}
+
+
 
 /* @media (min-width: 576px) {
     img{

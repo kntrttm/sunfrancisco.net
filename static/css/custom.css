@@ -1,5 +1,5 @@
 /* your styles go here */
-img{width: 100%;}
+img{width: 100% !important;}
 
 /* @media (min-width: 576px) {
     img{

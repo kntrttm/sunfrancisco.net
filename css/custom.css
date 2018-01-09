@@ -1,6 +1,6 @@
 /* your styles go here */
 body{
-    background-color: #FFF;
+    background-color: #FFF !important;
 }
 .content-column-content img{
     width: 100% !important;

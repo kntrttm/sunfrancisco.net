@@ -32,5 +32,5 @@ OR Name Like 'ご飯' OR '%酒' OR "音楽"` -->
 * 2006-2014　B.S. in Industrial Design, Kyusyu University, JP
 * 2010-2012　Integrated Design, Köln International School of Design, DE (Exchange)
 
-
-[1]: /img/about.png
+[1]: /img/about.jpg
+<!-- [1]: /img/about.png -->

@@ -11,3 +11,6 @@
     line-height: 1.50; */
     border-radius: 100px !important;
 }
+.img-detail img{
+    padding-bottom: 24px;
+}

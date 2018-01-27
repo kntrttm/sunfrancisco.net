@@ -14,3 +14,57 @@
 .img-detail{
     padding-bottom: 24px;
 }
+
+/* .container-fluid {
+  background-color: #8e9eab;
+  animation: bg-color 60s infinite;
+  -webkit-animation: bg-color 60s infinite;
+}
+@-webkit-keyframes bg-color {
+  0% { background-color: #8e9eab; }
+  25% { background-color: #f3f3ee; }
+  50% { background-color: #f3e2e2; }
+  75% { background-color: #304352; }
+  100% { background-color: #8e9eab; }
+}
+@keyframes bg-color {
+    0% { background-color: #8e9eab; }
+  33% { background-color: #f3f3ee; }
+  66% { background-color: #304352; }
+  100% { background-color: #8e9eab; } */
+  /* 0% { background-color: #8e9eab; }
+  25% { background-color: #f3f3ee; }
+  50% { background-color: #ff9a7d; }
+  75% { background-color: #304352; }
+  100% { background-color: #8e9eab; }
+} */
+/* @-webkit-keyframes bg-color {
+  0% { background-color: #8e9eab; }
+  20% { background-color: #f3f3ee; }
+  30% { background-color: #f5dda6; }
+  40% { background-color: #c5e8ea; }
+  50% { background-color: #89e2fb; }
+  60% { background-color: #82aeef; }
+  70% { background-color: #e37676; }
+  80% { background-color: #304352; }
+  100% { background-color: #8e9eab; }
+}
+@keyframes bg-color {
+  0% { background-color: #8e9eab; }
+  20% { background-color: #f3f3ee; }
+  40% { background-color: #f5dda6; }
+  60% { background-color: #e37676; }
+  80% { background-color: #304352; }
+  100% { background-color: #8e9eab; }
+} */
+/* .sidebar-menu li a{
+    color:#FFF;
+}
+.sidebar-menu li:before{
+    color:#FFF;
+    opacity: 0.5;
+}
+p.social a {
+    color: #FFF;
+    border: solid 1px #FFF;
+} */

@@ -3,24 +3,17 @@ date = "2016-11-05T21:05:33+05:30"
 title = "About"
 +++
 
-愛媛県出身、佐賀育ち。ツールと言語を覚えるのが得意。並列処理が苦手。デジタルが持つ質感とは何かを考え続けたい。
+#### Hi. I'm Kentaro Tsutsumi, a digital designer seeking the texture of the bit.   
+愛媛県出身、佐賀育ち、1児の父。ツールと言語を覚えるのが得意。デジタルが持つ質感を表現したい。
 
-<!-- `SELECT Favourites, 
-FROM Kentaro Tsutsumi 
-WHERE Name Like '旅行' OR Name Like '温泉'
-OR Name Like 'ご飯' OR '%酒' OR "音楽"` -->
-
-<!-- ◎旅行、温泉、美味しいご飯、酒、音楽 -->
 ![This is me][1]
-
-<!-- 2013年から東京のSIのベンチャーにてデザイナーのキャリアをスタート。 -->
-
 
 #### Skills
 
-* Adobe     
-* Sketch
-* Flinto
+* UI Design
+* Interaction Design
+* Prototyping
+* iOS Development
 
 #### Career
 

@@ -10,6 +10,7 @@ title = "About"
 
 #### Skills
 
+* Creative Direction
 * UI Design
 * Interaction Design
 * Prototyping
@@ -17,7 +18,9 @@ title = "About"
 
 #### Career
 
-* 2015-　　　 UI Designer at SEREAL
+* 2018-    　　　Representative at 革略有限公司.
+* 2018-    　　　Creative Director at Qurate,Inc.
+* 2015-2018　UI Designer at SEREAL
 * 2013-2015　Designer at Interest Maketing,Inc.
 
 #### Education

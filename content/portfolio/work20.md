@@ -1,10 +1,10 @@
 +++
 draft = false
-image = "img/portfolio/fes.png"
-showonlyimage = true
+image = "img/portfolio/eplus.png"
+showonlyimage = false
 date = "2019-04-23T01:03:30+09:00"
 title = "Fes+plus"
-weight = 3
+weight = 1
 +++
 
 フェス情報アプリのリードデザイン、UI設計、インタラクションデザイン、デザインプロトタイプ作成を行いました。

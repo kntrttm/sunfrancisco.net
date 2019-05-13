@@ -6,10 +6,20 @@
     <description>Recent content on Sunfrancisco</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2019 01:03:30 +0900</lastBuildDate>
     
 	<atom:link href="https://sunfrancisco.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fes&#43;plus</title>
+      <link>https://sunfrancisco.net/portfolio/work20/</link>
+      <pubDate>Tue, 23 Apr 2019 01:03:30 +0900</pubDate>
+      
+      <guid>https://sunfrancisco.net/portfolio/work20/</guid>
+      <description>&lt;p&gt;フェス情報アプリのリードデザイン、UI設計、インタラクションデザイン、デザインプロトタイプ作成を行いました。
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>LivePocket</title>
@@ -22,22 +32,32 @@
     </item>
     
     <item>
+      <title>Beams企画提案①</title>
+      <link>https://sunfrancisco.net/portfolio/work21/</link>
+      <pubDate>Fri, 10 May 2019 01:03:30 +0900</pubDate>
+      
+      <guid>https://sunfrancisco.net/portfolio/work21/</guid>
+      <description>&lt;p&gt;Qurate社が持つCMSシステムを売り込んでもらうために、パートナー企業様の企画案にハマるようにアイデアを考え、デザインにまで起こしました。
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Beams企画提案②</title>
+      <link>https://sunfrancisco.net/portfolio/work22/</link>
+      <pubDate>Fri, 10 May 2019 01:03:30 +0900</pubDate>
+      
+      <guid>https://sunfrancisco.net/portfolio/work22/</guid>
+      <description>&lt;p&gt;Qurate社が保有する技術を売り込んでもらうために、パートナー企業様の企画案にハマるようにアイデアを考え、デザインにまで起こしました。
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>typeapp</title>
       <link>https://sunfrancisco.net/portfolio/work3/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
       <guid>https://sunfrancisco.net/portfolio/work3/</guid>
       <description>&lt;p&gt;「@type」と「女の転職＠type」両方から転職情報を探せるアプリのデザインを担当しました。
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Fes&#43;plus</title>
-      <link>https://sunfrancisco.net/portfolio/work20/</link>
-      <pubDate>Tue, 23 Apr 2019 01:03:30 +0900</pubDate>
-      
-      <guid>https://sunfrancisco.net/portfolio/work20/</guid>
-      <description>&lt;p&gt;フェス情報アプリのリードデザイン、UI設計、インタラクションデザイン、デザインプロトタイプ作成を行いました。
 &lt;/p&gt;</description>
     </item>
     

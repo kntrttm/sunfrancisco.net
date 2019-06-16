@@ -18,9 +18,10 @@ title = "About"
 
 #### Career
 
-* 2018-    　　　Representative at 革略有限公司.
-* 2018-    　　　Creative Director at Qurate,Inc.
-* 2015-2018　UI Designer at SEREAL
+* 2019-    　　　UI Designer at LINE Fukuoka.
+* 2018-2019　Representative at 革略有限公司.
+* 2018-2019　Creative Director at Qurate,Inc.
+* 2015-2018　UI Designer at SEREAL.
 * 2013-2015　Designer at Interest Maketing,Inc.
 
 #### Education
